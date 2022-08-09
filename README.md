@@ -6,7 +6,8 @@ Hola chicos en este repositorio encontraras el codigo fuente en Python para que 
 - Para ejecutar este codigo es necesario que instales todos los requerimentos en tu computadora asi que te recomiendo crear un entorno virtual y ejecutar el archivo de texto requirements.txt, esto tambien te lo explico en este [Video](https://youtu.be/qSB54SkkKc8).
 - Recuerda que en este [Video](https://youtu.be/qSB54SkkKc8) toda la estructura y la logica de programacion.
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/177515112-1a8c3e8e-d328-4ae6-8f9c-e7085a9f4526.jpg)
+
+![mini](https://user-images.githubusercontent.com/85022752/183573651-20c2241e-3de9-44a9-babd-65dc3e7d42fb.jpg)
 
 
 # Recuerda que puedes contribuir a que siga desarrollando:
